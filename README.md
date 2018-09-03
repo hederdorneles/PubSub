@@ -10,4 +10,4 @@ Install mosquitto (And mosquitto-clients for additional commands)
 
 ## Tool for visualize messages
 
-    [MQTT.fx](http://www.mqttfx.org/)
+[MQTT.fx](http://www.mqttfx.org/)
